@@ -1,10 +1,6 @@
 # Full Stack AI Splitwise Clone with Next JS, Convex, Tailwind, Inngest, Shadcn UI 
 ### Make sure to create a `.env` file with following variables -
 
-
-# Deployment used by `npx convex dev`
-CONVEX_DEPLOYMENT=
-
 NEXT_PUBLIC_CONVEX_URL=
 
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
